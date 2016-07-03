@@ -1,0 +1,7 @@
+<?
+class thingo {
+
+  var $items;
+
+}
+?>
