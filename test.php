@@ -7,5 +7,8 @@ class thingo {
     return $number + 1;
   }
 
+  echo firstBranchTest(5);
+  exit();
+
 }
 ?>
